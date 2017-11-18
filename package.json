@@ -1,6 +1,6 @@
 {
   "name": "jest-preset-loopback",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Default jest configuration for loopback apps.",
   "license": "MIT",
   "author": "Mark Miyashita <negativetwelve@gmail.com>",
