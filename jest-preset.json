@@ -1,0 +1,6 @@
+{
+  "testEnvironment": "node",
+  "transform": {
+    "^.+\\.js$": "<rootDir>/src/preprocessor.js"
+  }
+}
