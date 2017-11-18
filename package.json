@@ -13,7 +13,8 @@
     "test"
   ],
   "files": [
-    "jest-preset.json"
+    "jest-preset.json",
+    "src"
   ],
   "dependencies": {
   },
