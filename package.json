@@ -14,7 +14,7 @@
   ],
   "files": [
     "jest-preset.json",
-    "src"
+    "preprocessor.js"
   ],
   "dependencies": {
   },

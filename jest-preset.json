@@ -1,7 +1,7 @@
 {
   "testEnvironment": "node",
   "transform": {
-    "^.+\\.js$": "<rootDir>/src/preprocessor.js"
+    "^.+\\.js$": "jest-preset-loopback/preprocessor.js"
   },
   "transformIgnorePatterns": [
     "node_modules/(?!loopback-boot)"
