@@ -1,0 +1,23 @@
+{
+  "name": "jest-preset-loopback",
+  "version": "0.0.1",
+  "description": "Default jest configuration for loopback apps.",
+  "license": "MIT",
+  "author": "Mark Miyashita <negativetwelve@gmail.com>",
+  "homepage": "https://github.com/negativetwelve/jest-preset-loopback",
+  "repository": "https://github.com/negativetwelve/jest-preset-loopback",
+  "keywords": [
+    "jest",
+    "loopback",
+    "preset",
+    "test"
+  ],
+  "files": [
+    "jest-preset.json"
+  ],
+  "dependencies": {
+  },
+  "peerDependencies": {
+    "jest": "*"
+  }
+}
